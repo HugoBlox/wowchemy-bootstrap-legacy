@@ -85,7 +85,7 @@ Once your migrated pages look correct, push to your repo and redeploy (Netlify /
 
 ## License
 
-MIT — see [LICENSE.md](LICENSE).
+MIT — see [LICENSE](LICENSE.md).
 
 ---
 
